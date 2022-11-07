@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+  h1 {
+    color: blue; font-size: 15px;
+  }
+  
+  .bacalah-buku {
+    color: red;
+    font-weight: 250;
+    font-size: 21px;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(0,0,0,0.4);
+    border: 3px solid #333;
+    margin: 10px 10px 5px 10px;
+    padding: 5px 5px;
+    width: 50px;
+    box-sizing: border-box;
+  }
+  .keutamaan-membaca {
+    background-color: yellow;
+    color: green;
+    width: unset;
+    font-weight: 250;
+    font-size: 21px;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(0,0,0,0.4);
+    border: 3px solid #333;
+    margin: 10px 10px 5px 10px;
+    padding: 5px 5px;
+    width: 200px;
+    box-sizing: border-box;
+  }
+    .beda-lagi {
+    background-color: yellow;
+    color: green;
+    width: unset;
+    font-weight: 250;
+    font-size: 21px;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(0,0,0,0.4);
+    border: 3px solid #333;
+    margin: 10px 10px 5px 10px;
+    padding: 5px 5px;
+    width: 200px;
+    box-sizing: border-box;
+    position: sticky;
+  }
+  </style>
+</head>
+
+<body>
+  <h1>Kamu sedang membaca</h1>
+  <h1 class="beda-lagi">sekarang</h1>
+  <h1>Kamu sedang membaca</h1>
+  <h1 class="keutamaan-membaca">Aktivitas membaca</h1>
+  <h1>Kamu sedang membaca</h1>
+  <h1>Kamu sedang membaca</h1>
+  <h1 class="bacalah-buku">Kamu sedang membaca</h1>
+  <h1>Kamu sedang membaca</h1>
+  <h1>Kamu sedang membaca</h1>
+  <b>Membaca</b>
+  <p>Kegiatan membaca meliputi membaca nyaring dan membaca dalam hati.</p>
+  <p>Membaca adalah mengungkapkan suatu imajinasi terhadap suatu pembaca </p>
+  <p>yang disukai khalayak ramai dan juga dimengerti oleh seseorang yang dicintai.</p>
+  
+
+</body>
+</html>
+
+
